@@ -1,0 +1,4 @@
+# Deterministic line endings: index.html embeds core.js byte-for-byte,
+# and that check must hold on every platform after clone.
+* text=auto eol=lf
+*.pdf binary
