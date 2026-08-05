@@ -4,7 +4,7 @@ An interactive design tool for printed inverted-F antennas (IFAs) — the flat, 
 
 Enter a frequency and your board dimensions. The tool computes the resonant length, folds it to fit your keepout strip, draws it to scale, and exports a working KiCad footprint plus a fabrication constraints sheet.
 
-**[▶ Open the tool](https://REPLACE_ME/)**
+**[▶ Open the tool](https://saipdhodi-bot.github.io/pcb-ifa-designer/)**
 
 Built for TRN553 Build-a-Tool at Seneca Polytechnic.
 
